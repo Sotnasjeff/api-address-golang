@@ -1,0 +1,9 @@
+api:
+  port: "9000"
+
+database:
+  host: "localhost"
+  port: "5432"
+  user: "jefferson"
+  password: "senha.009"
+  name: "api_address"
